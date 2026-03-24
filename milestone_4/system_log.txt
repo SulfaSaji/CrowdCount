@@ -1,0 +1,66 @@
+2026-03-24 19:38:56.628649 : System Started
+2026-03-24 19:38:56.644277 : Camera Started
+2026-03-24 19:39:06.253148 : Zone 1 Created
+2026-03-24 19:39:11.955937 : ALERT Triggered in Zone 1
+2026-03-24 19:39:12.300237 : ALERT Triggered in Zone 1
+2026-03-24 19:39:12.670668 : ALERT Triggered in Zone 1
+2026-03-24 19:39:12.800003 : Zone 2 Created
+2026-03-24 19:39:12.894222 : ALERT Triggered in Zone 1
+2026-03-24 19:39:13.237534 : ALERT Triggered in Zone 1
+2026-03-24 19:39:13.463377 : ALERT Triggered in Zone 1
+2026-03-24 19:39:13.581141 : ALERT Triggered in Zone 1
+2026-03-24 19:39:14.252931 : ALERT Triggered in Zone 1
+2026-03-24 19:39:15.144313 : ALERT Triggered in Zone 1
+2026-03-24 19:39:15.386708 : ALERT Triggered in Zone 1
+2026-03-24 19:39:25.284562 : ALERT Triggered in Zone 1
+2026-03-24 19:39:25.409304 : ALERT Triggered in Zone 1
+2026-03-24 19:39:26.191523 : ALERT Triggered in Zone 1
+2026-03-24 19:39:28.144099 : ALERT Triggered in Zone 1
+2026-03-24 19:39:28.274207 : ALERT Triggered in Zone 1
+2026-03-24 19:39:28.624969 : ALERT Triggered in Zone 1
+2026-03-24 19:39:28.763372 : ALERT Triggered in Zone 1
+2026-03-24 19:39:29.258523 : ALERT Triggered in Zone 1
+2026-03-24 19:39:29.846810 : ALERT Triggered in Zone 1
+2026-03-24 19:39:30.023761 : ALERT Triggered in Zone 1
+2026-03-24 19:39:30.128913 : ALERT Triggered in Zone 1
+2026-03-24 19:39:30.261157 : ALERT Triggered in Zone 1
+2026-03-24 19:39:30.378566 : ALERT Triggered in Zone 1
+2026-03-24 19:39:30.512449 : ALERT Triggered in Zone 1
+2026-03-24 19:39:31.037197 : ALERT Triggered in Zone 1
+2026-03-24 19:39:31.159876 : ALERT Triggered in Zone 1
+2026-03-24 19:39:33.518844 : ALERT Triggered in Zone 1
+2026-03-24 19:39:38.002974 : ALERT Triggered in Zone 1
+2026-03-24 19:39:38.242425 : ALERT Triggered in Zone 1
+2026-03-24 19:39:38.479838 : ALERT Triggered in Zone 1
+2026-03-24 19:39:38.706017 : ALERT Triggered in Zone 1
+2026-03-24 19:39:39.331310 : ALERT Triggered in Zone 1
+2026-03-24 19:39:40.877712 : ALERT Triggered in Zone 1
+2026-03-24 19:39:41.112099 : ALERT Triggered in Zone 1
+2026-03-24 19:40:24.909138 : ALERT Triggered in Zone 1
+2026-03-24 19:40:25.815503 : ALERT Triggered in Zone 1
+2026-03-24 19:40:25.924890 : ALERT Triggered in Zone 1
+2026-03-24 19:40:26.065647 : ALERT Triggered in Zone 1
+2026-03-24 19:40:26.191547 : ALERT Triggered in Zone 1
+2026-03-24 19:40:26.299786 : ALERT Triggered in Zone 1
+2026-03-24 19:40:26.428846 : ALERT Triggered in Zone 1
+2026-03-24 19:40:26.543924 : ALERT Triggered in Zone 1
+2026-03-24 19:40:26.659413 : ALERT Triggered in Zone 1
+2026-03-24 19:40:26.784772 : ALERT Triggered in Zone 1
+2026-03-24 19:40:26.893735 : ALERT Triggered in Zone 1
+2026-03-24 19:40:27.034386 : ALERT Triggered in Zone 1
+2026-03-24 19:40:27.167822 : ALERT Triggered in Zone 1
+2026-03-24 19:40:27.283724 : ALERT Triggered in Zone 1
+2026-03-24 19:40:27.403495 : ALERT Triggered in Zone 1
+2026-03-24 19:40:28.552987 : ALERT Triggered in Zone 1
+2026-03-24 19:40:28.893746 : ALERT Triggered in Zone 1
+2026-03-24 19:40:29.037483 : ALERT Triggered in Zone 1
+2026-03-24 19:40:29.312397 : ALERT Triggered in Zone 1
+2026-03-24 19:40:29.802894 : ALERT Triggered in Zone 1
+2026-03-24 19:40:32.046016 : ALERT Triggered in Zone 1
+2026-03-24 19:40:32.170593 : ALERT Triggered in Zone 1
+2026-03-24 19:40:41.737330 : ALERT Triggered in Zone 1
+2026-03-24 19:40:41.878980 : ALERT Triggered in Zone 1
+2026-03-24 19:40:42.020416 : ALERT Triggered in Zone 1
+2026-03-24 19:40:42.148968 : ALERT Triggered in Zone 1
+2026-03-24 19:40:42.268790 : ALERT Triggered in Zone 1
+2026-03-24 19:40:59.476163 : System Shutdown
