@@ -26,7 +26,7 @@ The project was developed in multiple milestones, culminating in the fully-featu
 - `milestone_4/m4.py`: The main video analytics and tracking script.
 - `milestone_4/crowd_report.py`: Script to generate analytical reports from collected data.
 - `documentation/`: Contains the project presentation and reports.
-- `yolov8n.pt`: YOLOv8 nano model (downloaded automatically if missing).
+- `yolov8n.pt`: YOLOv8 nano model.
 
 ## Installation
 
