@@ -1,5 +1,4 @@
-# Crowd Counting using Video Analytics
-
+# Crowd Counting using Video Analytics - Infosys Springboard Virtual Internship 6.0 
 A computer vision-based project designed to monitor and manage crowd density using real-time video analytics. The system leverages the ultralytics YOLOv8 object detection model to track individuals, count entries/exits within customizable zones, and alert users when overcrowding limits are exceeded.
 
 ## Features
